@@ -33,7 +33,7 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-I'm is a master's student in computer science at the University of Southern California. Before that, I received a bachelor's degree in software engineering from Huazhong University of Science and Technology with a GPA of 3.9 (4.0 in total).\
+I'm a master's student in computer science at the University of Southern California. Before that, I received a bachelor's degree in software engineering from Huazhong University of Science and Technology with a GPA of 3.9 (4.0 in total).\
 \
 I had an internship in Sinovation Ventures as a robot 3D vision engineer for 7 months. During that internship, I designed 3 algorithms to allow warehouse robots to recognize goods and detect distance in different application scenarios. And all 3 algorithms are put into use on warehouse robots.\
 \
