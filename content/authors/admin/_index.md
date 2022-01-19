@@ -1,7 +1,7 @@
 ---
 title: Xinwei Du
 role: Software Engineer
-avatar_filename: 微信图片_20220119000250.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
