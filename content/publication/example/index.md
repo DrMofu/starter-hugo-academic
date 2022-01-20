@@ -46,13 +46,13 @@ featured: true
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: fig10a.png
 date: 2022-01-20T08:14:10.770Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
